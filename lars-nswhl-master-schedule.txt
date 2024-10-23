@@ -1,0 +1,447 @@
+Thursday   ,C,Accel,Rockets,2024-10-17,7:15 PM,Greenfoot Energy Center (Rink D)
+Thursday   ,COMP,Crushers,Pylons,2024-10-17,7:45 PM,Greenfoot Energy Center (Rink A)
+Friday   ,A,Stingers,Truro Hawks,2024-10-18,8:30 PM,Don Henderson Memorial Sportsplex
+Saturday   ,A,Mariners,Leopards,2024-10-19,9:00 PM,Greenfoot Energy Center (Rink D)
+Saturday   ,A,Truro Hawks,Chill,2024-10-19,2:00 PM,East Hants Sportsplex (Ice Pad B)
+Saturday   ,A,Propeller Galaxy,Pylons,2024-10-19,3:30 PM,East Hants Sportsplex (Ice Pad B)
+Saturday   ,C,Shepherds,Rockets,2024-10-19,2:30 PM,East Hants Sportsplex (Keith Miller Arena)
+Saturday   ,B,Brookfield,Dynamos,2024-10-19,4:00 PM,East Hants Sportsplex (Keith Miller Arena)
+Saturday   ,Rec,Stars,She Devils,2024-10-19,8:00 PM,Eleanor Pew Memorial Arena (Church Memorial Park/Chester Rink)
+Saturday   ,COMP,Eastern Shore,Stingers,2024-10-19,6:00 PM,East Coast Varsity Arena
+Saturday   ,COMP,Fossils,Brewers,2024-10-19,7:30 PM,East Coast Varsity Arena
+Saturday   ,A,Heat,Mighty Ducks,2024-10-19,9:00 PM,East Coast Varsity Arena
+Sunday   ,COMP,Propeller Galaxy,Brewers,2024-10-20,5:15 PM,Greenfoot Energy Center (Rink D)
+Sunday   ,C,Kraken,Believe,2024-10-20,6:45 PM,Greenfoot Energy Center (Rink D)
+Sunday   ,COMP,Crushers,Fossils,2024-10-20,6:00 PM,Greenfoot Energy Center (Rink A)
+Sunday   ,C,Twinkle Ponies,Moon Dogs,2024-10-20,7:30 PM,Greenfoot Energy Center (Rink A)
+Sunday   ,B,Dynamos,West Hants,2024-10-20,6:00 PM,Newport Arena (GFL Centre)
+Sunday   ,A,Leopards,Heat,2024-10-20,11:00 AM,East Hants Sportsplex (Keith Miller Arena)
+Sunday   ,A,Mighty Ducks,Chill,2024-10-20,8:30 PM,East Hants Sportsplex (Ice Pad B)
+Sunday   ,A,Eastern Shore,Mariners,2024-10-20,8:00 PM,CFB Halifax - Shearwater Arena
+Sunday   ,C,Warriors,Giants,2024-10-20,6:15 PM,RBC Centre - Rink A
+Sunday   ,B,Puck Honeys,One-Eyed Dog,2024-10-20,7:45 PM,RBC Centre - Rink D
+Thursday   ,B,Cougars,Puck Honeys,2024-10-24,7:15 PM,Greenfoot Energy Center (Rink D)
+Thursday   ,A,Truro Hawks,Chill,2024-10-24,7:45 PM,Greenfoot Energy Center (Rink A)
+Friday   ,B,Flyers,Brookfield,2024-10-25,8:30 PM,Don Henderson Memorial Sportsplex
+Saturday   ,C,Shepherds,Moon Dogs,2024-10-26,9:00 PM,Greenfoot Energy Center (Rink D)
+Saturday   ,REC,She Devils,Super Novas,2024-10-26,2:00 PM,East Hants Sportsplex (Ice Pad B)
+Saturday   ,C,Warriors,Believe,2024-10-26,3:30 PM,East Hants Sportsplex (Ice Pad B)
+Saturday   ,REC,Seahawks,Puckers,2024-10-26,6:00 PM,East Coast Varsity Arena
+Saturday   ,REC,Mayhem,Impact,2024-10-26,7:30 PM,East Coast Varsity Arena
+Saturday   ,REC,Havoc,Storm,2024-10-26,9:00 PM,East Coast Varsity Arena
+Sunday   ,C,Giants,Twinkle Ponies,2024-10-27,3:00 PM,Centennial Arena (Halifax)
+Sunday   ,C,Rockets,Believe,2024-10-27,4:30 PM,Centennial Arena (Halifax)
+Sunday   ,REC,Puckers,Storm,2024-10-27,5:15 PM,Greenfoot Energy Center (Rink D)
+Sunday   ,REC,Impact,Seahawks,2024-10-27,6:45 PM,Greenfoot Energy Center (Rink D)
+Sunday   ,REC,Stars,Havoc,2024-10-27,6:00 PM,Greenfoot Energy Center (Rink A)
+Sunday   ,REC,Super Novas,Mayhem,2024-10-27,7:30 PM,Greenfoot Energy Center (Rink A)
+Sunday   ,B,One-Eyed Dog,West Hants,2024-10-27,6:00 PM,Newport Arena (GFL Centre)
+Sunday   ,COMP,Pylons,Fossils,2024-10-27,7:45 PM,RBC Centre - Rink D
+Sunday   ,A,Mighty Ducks,Stingers,2024-10-27,8:30 PM,East Hants Sportsplex (Ice Pad B)
+Sunday   ,A,Leopards,Eastern Shore,2024-10-27,12:00 PM,Eastern Shore Community Centre
+Sunday   ,C,Accel,Kraken,2024-10-27,8:00 PM,CFB Halifax - Shearwater Arena
+Sunday   ,COMP,Brewers,Crushers,2024-10-27,6:15 PM,RBC Centre - Rink A
+Thursday   ,B,West Hants,Puck Honeys,2024-10-31,7:15 PM,Greenfoot Energy Center (Rink D)
+Thursday   ,COMP,Crushers,Propeller Galaxy,2024-10-31,7:45 PM,Greenfoot Energy Center (Rink A)
+Friday   ,B,One-Eyed Dog,Brookfield,2024-11-01,8:30 PM,Don Henderson Memorial Sportsplex
+Saturday   ,COMP,Fossils,Propeller Galaxy,2024-11-02,9:00 PM,Greenfoot Energy Center (Rink D)
+Saturday   ,B,Dynamos,Cougars,2024-11-02,2:00 PM,East Hants Sportsplex (Ice Pad B)
+Saturday   ,B,West Hants,Flyers,2024-11-02,3:30 PM,East Hants Sportsplex (Ice Pad B)
+Saturday   ,REC,Puckers,She Devils,2024-11-02,8:00 PM,Eleanor Pew Memorial Arena (Church Memorial Park/Chester Rink)
+Saturday   ,REC,Storm,Super Novas,2024-11-02,6:00 PM,East Coast Varsity Arena
+Saturday   ,REC,Mayhem,Stars,2024-11-02,7:30 PM,East Coast Varsity Arena
+Saturday   ,REC,Impact,Havoc,2024-11-02,9:00 PM,East Coast Varsity Arena
+Sunday   ,A,Heat,Stingers,2024-11-03,5:15 PM,Greenfoot Energy Center (Rink D)
+Sunday   ,A,Truro Hawks,Leopards,2024-11-03,6:45 PM,Greenfoot Energy Center (Rink D)
+Sunday   ,B,Brookfield,Puck Honeys,2024-11-03,6:00 PM,Greenfoot Energy Center (Rink A)
+Sunday   ,C,Shepherds,Twinkle Ponies,2024-11-03,7:30 PM,Greenfoot Energy Center (Rink A)
+Sunday   ,C,Kraken,Giants,2024-11-03,8:30 PM,East Hants Sportsplex (Ice Pad B)
+Sunday   ,A,Chill,Eastern Shore,2024-11-03,12:00 PM,Eastern Shore Community Centre
+Sunday   ,A,Mighty Ducks,Mariners,2024-11-03,8:00 PM,CFB Halifax - Shearwater Arena
+Sunday   ,B,Dynamos,Flyers,2024-11-03,6:15 PM,RBC Centre - Rink A
+Sunday   ,B,Cougars,One-Eyed Dog,2024-11-03,7:45 PM,RBC Centre - Rink D
+Thursday   ,REC,Storm,Seahawks,2024-11-07,7:45 PM,Greenfoot Energy Center (Rink A)
+Friday   ,A,Eastern Shore,Truro Hawks,2024-11-08,8:30 PM,Don Henderson Memorial Sportsplex
+Friday   ,C,Moon Dogs,Accel,2024-11-08,7:00 PM,East Hants Sportsplex (Keith Miller Arena)
+Friday   ,COMP,Propeller Galaxy,Fossils,2024-11-08,8:30 PM,East Hants Sportsplex (Keith Miller Arena)
+Saturday   ,REC,Impact,Storm,2024-11-09,2:00 PM,East Hants Sportsplex (Ice Pad B)
+Saturday   ,REC,Puckers,Mayhem,2024-11-09,3:30 PM,East Hants Sportsplex (Ice Pad B)
+Saturday   ,C,Believe,Accel,2024-11-09,6:00 PM,East Coast Varsity Arena
+Saturday   ,C,Rockets,Giants,2024-11-09,7:30 PM,East Coast Varsity Arena
+Saturday   ,C,Twinkle Ponies,Warriors,2024-11-09,9:00 PM,East Coast Varsity Arena
+Sunday   ,REC,Mayhem,Havoc,2024-11-10,5:15 PM,Greenfoot Energy Center (Rink D)
+Sunday   ,REC,She Devils,Seahawks,2024-11-10,6:45 PM,Greenfoot Energy Center (Rink D)
+Sunday   ,REC,Stars,Super Novas,2024-11-10,6:00 PM,Greenfoot Energy Center (Rink A)
+Sunday   ,REC,Puckers,Impact,2024-11-10,7:30 PM,Greenfoot Energy Center (Rink A)
+Sunday   ,B,Brookfield,West Hants,2024-11-10,6:00 PM,Newport Arena (GFL Centre)
+Sunday   ,C,Warriors,Shepherds,2024-11-10,7:45 PM,RBC Centre - Rink D
+Sunday   ,C,Moon Dogs,Kraken,2024-11-10,8:00 PM,CFB Halifax - Shearwater Arena
+Sunday   ,COMP,Brewers,Crushers,2024-11-10,8:30 PM,East Hants Sportsplex (Ice Pad B)
+Sunday   ,B,Puck Honeys,Flyers,2024-11-10,6:15 PM,RBC Centre - Rink A
+Thursday   ,,,,2024-11-14,7:15 PM,Greenfoot Energy Center (Rink D)
+Thursday   ,,,,2024-11-14,7:45 PM,Greenfoot Energy Center (Rink A)
+Friday   ,,,,2024-11-15,8:30 PM,Don Henderson Memorial Sportsplex
+Saturday   ,,,,2024-11-16,9:00 PM,Greenfoot Energy Center (Rink D)
+Saturday   ,,,,2024-11-16,8:00 PM,Eleanor Pew Memorial Arena (Church Memorial Park/Chester Rink)
+Saturday   ,,,,2024-11-16,2:00 PM,East Hants Sportsplex (Ice Pad B)
+Saturday   ,,,,2024-11-16,3:30 PM,East Hants Sportsplex (Ice Pad B)
+Saturday   ,,,,2024-11-16,2:30 PM,East Hants Sportsplex (Keith Miller Arena)
+Saturday   ,,,,2024-11-16,6:00 PM,East Coast Varsity Arena
+Saturday   ,,,,2024-11-16,7:30 PM,East Coast Varsity Arena
+Saturday   ,,,,2024-11-16,9:00 PM,East Coast Varsity Arena
+Sunday   ,,,,2024-11-17,5:15 PM,Greenfoot Energy Center (Rink D)
+Sunday   ,,,,2024-11-17,6:45 PM,Greenfoot Energy Center (Rink D)
+Sunday   ,,,,2024-11-17,6:00 PM,Greenfoot Energy Center (Rink A)
+Sunday   ,,,,2024-11-17,7:30 PM,Greenfoot Energy Center (Rink A)
+Sunday   ,,,,2024-11-17,8:30 PM,East Hants Sportsplex (Ice Pad B)
+Sunday   ,,,,2024-11-17,12:00 PM,Eastern Shore Community Centre
+Sunday   ,,,,2024-11-17,8:00 PM,CFB Halifax - Shearwater Arena
+Sunday   ,,,,2024-11-17,11:00 AM,East Hants Sportsplex (Keith Miller Arena)
+Sunday   ,,,,2024-11-17,6:15 PM,RBC Centre - Rink A
+Sunday   ,,,,2024-11-17,7:45 PM,RBC Centre - Rink D
+Thursday   ,,,,2024-11-21,7:15 PM,Greenfoot Energy Center (Rink D)
+Thursday   ,,,,2024-11-21,7:45 PM,Greenfoot Energy Center (Rink A)
+Friday   ,,,,2024-11-22,8:30 PM,Don Henderson Memorial Sportsplex
+Saturday   ,,,,2024-11-23,9:00 PM,Greenfoot Energy Center (Rink D)
+Saturday   ,,,,2024-11-23,7:00 PM,Cole Harbour Place (Scotia 1)
+Saturday   ,,,,2024-11-23,8:30 PM,Cole Harbour Place (Scotia 1)
+Saturday   ,,,,2024-11-23,2:00 PM,East Hants Sportsplex (Ice Pad B)
+Saturday   ,,,,2024-11-23,3:30 PM,East Hants Sportsplex (Ice Pad B)
+Saturday   ,,,,2024-11-23,2:30 PM,East Hants Sportsplex (Keith Miller Arena)
+Saturday   ,,,,2024-11-23,6:00 PM,East Coast Varsity Arena
+Saturday   ,,,,2024-11-23,7:30 PM,East Coast Varsity Arena
+Saturday   ,,,,2024-11-23,9:00 PM,East Coast Varsity Arena
+Sunday   ,,,,2024-11-24,5:15 PM,Greenfoot Energy Center (Rink D)
+Sunday   ,,,,2024-11-24,6:45 PM,Greenfoot Energy Center (Rink D)
+Sunday   ,,,,2024-11-24,6:00 PM,Greenfoot Energy Center (Rink A)
+Sunday   ,,,,2024-11-24,7:30 PM,Greenfoot Energy Center (Rink A)
+Sunday   ,,,,2024-11-24,6:00 PM,Newport Arena (GFL Centre)
+Sunday   ,,,,2024-11-24,7:45 PM,RBC Centre - Rink D
+Sunday   ,,,,2024-11-24,8:30 PM,East Hants Sportsplex (Ice Pad B)
+Sunday   ,,,,2024-11-24,12:00 PM,Eastern Shore Community Centre
+Sunday   ,,,,2024-11-24,8:00 PM,CFB Halifax - Shearwater Arena
+Sunday   ,,,,2024-11-24,6:15 PM,RBC Centre - Rink A
+Thursday   ,,,,2024-11-28,7:15 PM,Greenfoot Energy Center (Rink D)
+Thursday   ,,,,2024-11-28,7:45 PM,Greenfoot Energy Center (Rink A)
+Friday   ,,,,2024-11-29,8:30 PM,Don Henderson Memorial Sportsplex
+Saturday   ,,,,2024-11-30,8:00 PM,Eleanor Pew Memorial Arena (Church Memorial Park/Chester Rink)
+Saturday   ,,,,2024-11-30,5:00 PM,East Hants Sportsplex (Keith Miller Arena)
+Saturday   ,,,,2024-11-30,6:00 PM,East Coast Varsity Arena
+Saturday   ,,,,2024-11-30,7:30 PM,East Coast Varsity Arena
+Saturday   ,,,,2024-11-30,9:00 PM,East Coast Varsity Arena
+Sunday   ,,,,2024-12-01,5:15 PM,Greenfoot Energy Center (Rink D)
+Sunday   ,,,,2024-12-01,6:45 PM,Greenfoot Energy Center (Rink D)
+Sunday   ,,,,2024-12-01,6:00 PM,Greenfoot Energy Center (Rink A)
+Sunday   ,,,,2024-12-01,7:30 PM,Greenfoot Energy Center (Rink A)
+Sunday   ,,,,2024-12-01,8:00 PM,CFB Halifax - Shearwater Arena
+Sunday   ,,,,2024-12-01,4:30 PM,East Hants Sportsplex (Ice Pad B)
+Sunday   ,,,,2024-12-01,8:30 PM,East Hants Sportsplex (Ice Pad B)
+Sunday   ,,,,2024-12-01,6:15 PM,RBC Centre - Rink A
+Sunday   ,,,,2024-12-01,7:45 PM,RBC Centre - Rink D
+Thursday   ,,,,2024-12-05,7:15 PM,Greenfoot Energy Center (Rink D)
+Thursday   ,,,,2024-12-05,7:45 PM,Greenfoot Energy Center (Rink A)
+Friday   ,,,,2024-12-06,8:30 PM,Don Henderson Memorial Sportsplex
+Saturday   ,,,,2024-12-07,9:00 PM,Greenfoot Energy Center (Rink D)
+Saturday   ,,,,2024-12-07,7:00 PM,Cole Harbour Place (Scotia 1)
+Saturday   ,,,,2024-12-07,8:30 PM,Cole Harbour Place (Scotia 1)
+Saturday   ,,,,2024-12-07,6:00 PM,East Coast Varsity Arena
+Saturday   ,,,,2024-12-07,7:30 PM,East Coast Varsity Arena
+Saturday   ,,,,2024-12-07,9:00 PM,East Coast Varsity Arena
+Sunday   ,,,,2024-12-08,5:15 PM,Greenfoot Energy Center (Rink D)
+Sunday   ,,,,2024-12-08,6:45 PM,Greenfoot Energy Center (Rink D)
+Sunday   ,,,,2024-12-08,6:00 PM,Greenfoot Energy Center (Rink A)
+Sunday   ,,,,2024-12-08,7:30 PM,Greenfoot Energy Center (Rink A)
+Sunday   ,,,,2024-12-08,6:00 PM,Newport Arena (GFL Centre)
+Sunday   ,,,,2024-12-08,7:45 PM,RBC Centre - Rink D
+Sunday   ,,,,2024-12-08,12:00 PM,Eastern Shore Community Centre
+Sunday   ,,,,2024-12-08,8:00 PM,CFB Halifax - Shearwater Arena
+Sunday   ,,,,2024-12-08,8:30 PM,East Hants Sportsplex (Ice Pad B)
+Sunday   ,,,,2024-12-08,6:15 PM,RBC Centre - Rink A
+Thursday   ,,,,2024-12-12,7:15 PM,Greenfoot Energy Center (Rink D)
+Thursday   ,,,,2024-12-12,7:45 PM,Greenfoot Energy Center (Rink A)
+Friday   ,,,,2024-12-13,8:30 PM,Don Henderson Memorial Sportsplex
+Friday   ,,,,2024-12-13,7:00 PM,East Hants Sportsplex (Keith Miller Arena)
+Friday   ,,,,2024-12-13,8:30 PM,East Hants Sportsplex (Keith Miller Arena)
+Saturday   ,,,,2024-12-14,9:00 PM,Greenfoot Energy Center (Rink D)
+Saturday   ,,,,2024-12-14,8:00 PM,Eleanor Pew Memorial Arena (Church Memorial Park/Chester Rink)
+Saturday   ,,,,2024-12-14,6:00 PM,East Coast Varsity Arena
+Saturday   ,,,,2024-12-14,7:30 PM,East Coast Varsity Arena
+Saturday   ,,,,2024-12-14,9:00 PM,East Coast Varsity Arena
+Sunday   ,,,,2024-12-15,5:15 PM,Greenfoot Energy Center (Rink D)
+Sunday   ,,,,2024-12-15,6:45 PM,Greenfoot Energy Center (Rink D)
+Sunday   ,,,,2024-12-15,6:00 PM,Greenfoot Energy Center (Rink A)
+Sunday   ,,,,2024-12-15,7:30 PM,Greenfoot Energy Center (Rink A)
+Sunday   ,,,,2024-12-15,7:30 PM,East Hants Sportsplex (Ice Pad B)
+Sunday   ,,,,2024-12-15,12:00 PM,Eastern Shore Community Centre
+Sunday   ,,,,2024-12-15,8:00 PM,CFB Halifax - Shearwater Arena
+Sunday   ,,,,2024-12-15,6:15 PM,RBC Centre - Rink A
+Sunday   ,,,,2024-12-15,7:45 PM,RBC Centre - Rink D
+Thursday   ,,,,2024-12-19,7:15 PM,Greenfoot Energy Center (Rink D)
+Thursday   ,,,,2024-12-19,7:45 PM,Greenfoot Energy Center (Rink A)
+Friday   ,,,,2024-12-20,8:30 PM,Don Henderson Memorial Sportsplex
+Friday   ,,,,2024-12-20,7:00 PM,East Hants Sportsplex (Keith Miller Arena)
+Friday   ,,,,2024-12-20,8:30 PM,East Hants Sportsplex (Keith Miller Arena)
+Sunday   ,,,,2024-12-22,6:00 PM,Newport Arena (GFL Centre)
+Sunday   ,,,,2024-12-22,7:45 PM,RBC Centre - Rink D
+Sunday   ,,,,2024-12-22,8:00 PM,CFB Halifax - Shearwater Arena
+Sunday   ,,,,2024-12-22,6:15 PM,RBC Centre - Rink A
+Friday   ,,,,2024-12-27,7:30 PM,Don Henderson Memorial Sportsplex
+Saturday   ,,,,2024-12-28,8:00 PM,Eleanor Pew Memorial Arena (Church Memorial Park/Chester Rink)
+Sunday   ,,,,2024-12-29,7:45 PM,RBC Centre - Rink D
+Sunday   ,,,,2024-12-29,6:15 PM,RBC Centre - Rink A
+Thursday   ,,,,2025-01-02,7:15 PM,Greenfoot Energy Center (Rink D)
+Thursday   ,,,,2025-01-02,7:45 PM,Greenfoot Energy Center (Rink A)
+Friday   ,,,,2025-01-03,8:30 PM,Don Henderson Memorial Sportsplex
+Friday   ,,,,2025-01-03,7:00 PM,East Hants Sportsplex (Keith Miller Arena)
+Friday   ,,,,2025-01-03,8:30 PM,East Hants Sportsplex (Keith Miller Arena)
+Saturday   ,,,,2025-01-04,9:00 PM,Greenfoot Energy Center (Rink D)
+Saturday   ,,,,2025-01-04,7:00 PM,Cole Harbour Place (Scotia 1)
+Saturday   ,,,,2025-01-04,8:30 PM,Cole Harbour Place (Scotia 1)
+Saturday   ,,,,2025-01-04,2:30 PM,East Hants Sportsplex (Keith Miller Arena)
+Saturday   ,,,,2025-01-04,6:00 PM,East Coast Varsity Arena
+Saturday   ,,,,2025-01-04,7:30 PM,East Coast Varsity Arena
+Saturday   ,,,,2025-01-04,9:00 PM,East Coast Varsity Arena
+Sunday   ,,,,2025-01-05,5:15 PM,Greenfoot Energy Center (Rink D)
+Sunday   ,,,,2025-01-05,6:45 PM,Greenfoot Energy Center (Rink D)
+Sunday   ,,,,2025-01-05,6:00 PM,Greenfoot Energy Center (Rink A)
+Sunday   ,,,,2025-01-05,7:30 PM,Greenfoot Energy Center (Rink A)
+Sunday   ,,,,2025-01-05,6:00 PM,Newport Arena (GFL Centre)
+Sunday   ,,,,2025-01-05,7:30 PM,East Hants Sportsplex (Ice Pad B)
+Sunday   ,,,,2025-01-05,6:15 PM,RBC Centre - Rink A
+Sunday   ,,,,2025-01-05,7:45 PM,RBC Centre - Rink D
+Friday   ,,,,2025-01-10,8:30 PM,Don Henderson Memorial Sportsplex
+Saturday   ,,,,2025-01-11,7:00 PM,Cole Harbour Place (Scotia 1)
+Saturday   ,,,,2025-01-11,8:30 PM,Cole Harbour Place (Scotia 1)
+Saturday   ,,,,2025-01-11,4:30 PM,East Hants Sportsplex (Keith Miller Arena)
+Saturday   ,,,,2025-01-11,6:00 PM,East Hants Sportsplex (Keith Miller Arena)
+Saturday   ,,,,2025-01-11,8:00 PM,Eleanor Pew Memorial Arena (Church Memorial Park/Chester Rink)
+Saturday   ,,,,2025-01-11,6:00 PM,East Coast Varsity Arena
+Saturday   ,,,,2025-01-11,7:30 PM,East Coast Varsity Arena
+Saturday   ,,,,2025-01-11,9:00 PM,East Coast Varsity Arena
+Sunday   ,,,,2025-01-12,5:15 PM,Greenfoot Energy Center (Rink D)
+Sunday   ,,,,2025-01-12,6:45 PM,Greenfoot Energy Center (Rink D)
+Sunday   ,,,,2025-01-12,6:00 PM,Greenfoot Energy Center (Rink A)
+Sunday   ,,,,2025-01-12,7:30 PM,Greenfoot Energy Center (Rink A)
+Sunday   ,,,,2025-01-12,11:30 AM,East Hants Sportsplex (Keith Miller Arena)
+Sunday   ,,,,2025-01-12,8:30 PM,East Hants Sportsplex (Ice Pad B)
+Sunday   ,,,,2025-01-12,12:00 PM,Eastern Shore Community Centre
+Sunday   ,,,,2025-01-12,8:00 PM,CFB Halifax - Shearwater Arena
+Sunday   ,,,,2025-01-12,6:15 PM,RBC Centre - Rink A
+Sunday   ,,,,2025-01-12,7:45 PM,RBC Centre - Rink D
+Thursday   ,,,,2025-01-16,7:15 PM,Greenfoot Energy Center (Rink D)
+Thursday   ,,,,2025-01-16,7:45 PM,Greenfoot Energy Center (Rink A)
+Friday   ,,,,2025-01-17,8:30 PM,Don Henderson Memorial Sportsplex
+Saturday   ,,,,2025-01-18,9:00 PM,Greenfoot Energy Center (Rink D)
+Saturday   ,,,,2025-01-18,6:00 PM,East Coast Varsity Arena
+Saturday   ,,,,2025-01-18,7:30 PM,East Coast Varsity Arena
+Saturday   ,,,,2025-01-18,9:00 PM,East Coast Varsity Arena
+Sunday   ,,,,2025-01-19,5:15 PM,Greenfoot Energy Center (Rink D)
+Sunday   ,,,,2025-01-19,6:45 PM,Greenfoot Energy Center (Rink D)
+Sunday   ,,,,2025-01-19,6:00 PM,Greenfoot Energy Center (Rink A)
+Sunday   ,,,,2025-01-19,7:30 PM,Greenfoot Energy Center (Rink A)
+Sunday   ,,,,2025-01-19,6:00 PM,Newport Arena (GFL Centre)
+Sunday   ,,,,2025-01-19,7:45 PM,RBC Centre - Rink D
+Sunday   ,,,,2025-01-19,8:30 PM,East Hants Sportsplex (Ice Pad B)
+Sunday   ,,,,2025-01-19,8:00 PM,CFB Halifax - Shearwater Arena
+Sunday   ,,,,2025-01-19,6:15 PM,RBC Centre - Rink A
+Thursday   ,,,,2025-01-23,7:15 PM,Greenfoot Energy Center (Rink D)
+Thursday   ,,,,2025-01-23,7:45 PM,Greenfoot Energy Center (Rink A)
+Friday   ,,,,2025-01-24,8:30 PM,Don Henderson Memorial Sportsplex
+Saturday   ,,,,2025-01-25,9:00 PM,Greenfoot Energy Center (Rink D)
+Saturday   ,,,,2025-01-25,4:30 PM,East Hants Sportsplex (Keith Miller Arena)
+Saturday   ,,,,2025-01-25,6:00 PM,East Hants Sportsplex (Keith Miller Arena)
+Saturday   ,,,,2025-01-25,7:30 PM,East Hants Sportsplex (Keith Miller Arena)
+Saturday   ,,,,2025-01-25,8:00 PM,Eleanor Pew Memorial Arena (Church Memorial Park/Chester Rink)
+Saturday   ,,,,2025-01-25,6:00 PM,East Coast Varsity Arena
+Saturday   ,,,,2025-01-25,7:30 PM,East Coast Varsity Arena
+Saturday   ,,,,2025-01-25,9:00 PM,East Coast Varsity Arena
+Sunday   ,,,,2025-01-26,5:15 PM,Greenfoot Energy Center (Rink D)
+Sunday   ,,,,2025-01-26,6:45 PM,Greenfoot Energy Center (Rink D)
+Sunday   ,,,,2025-01-26,6:00 PM,Greenfoot Energy Center (Rink A)
+Sunday   ,,,,2025-01-26,7:30 PM,Greenfoot Energy Center (Rink A)
+Sunday   ,,,,2025-01-26,8:30 PM,East Hants Sportsplex (Ice Pad B)
+Sunday   ,,,,2025-01-26,12:00 PM,Eastern Shore Community Centre
+Sunday   ,,,,2025-01-26,8:00 PM,CFB Halifax - Shearwater Arena
+Sunday   ,,,,2025-01-26,6:15 PM,RBC Centre - Rink A
+Sunday   ,,,,2025-01-26,7:45 PM,RBC Centre - Rink D
+Thursday   ,,,,2025-01-30,7:15 PM,Greenfoot Energy Center (Rink D)
+Thursday   ,,,,2025-01-30,7:45 PM,Greenfoot Energy Center (Rink A)
+Friday   ,,,,2025-01-31,8:30 PM,Don Henderson Memorial Sportsplex
+Saturday   ,,,,2025-02-01,9:00 PM,Greenfoot Energy Center (Rink D)
+Saturday   ,,,,2025-02-01,6:00 PM,East Coast Varsity Arena
+Saturday   ,,,,2025-02-01,7:30 PM,East Coast Varsity Arena
+Saturday   ,,,,2025-02-01,9:00 PM,East Coast Varsity Arena
+Sunday   ,,,,2025-02-02,5:15 PM,Greenfoot Energy Center (Rink D)
+Sunday   ,,,,2025-02-02,6:45 PM,Greenfoot Energy Center (Rink D)
+Sunday   ,,,,2025-02-02,6:00 PM,Greenfoot Energy Center (Rink A)
+Sunday   ,,,,2025-02-02,7:30 PM,Greenfoot Energy Center (Rink A)
+Sunday   ,,,,2025-02-02,6:00 PM,Newport Arena (GFL Centre)
+Sunday   ,,,,2025-02-02,7:45 PM,RBC Centre - Rink D
+Sunday   ,,,,2025-02-02,12:30,Centennial Arena (Halifax)
+Sunday   ,,,,2025-02-02,8:30 PM,East Hants Sportsplex (Ice Pad B)
+Sunday   ,,,,2025-02-02,8:00 PM,CFB Halifax - Shearwater Arena
+Sunday   ,,,,2025-02-02,6:15 PM,RBC Centre - Rink A
+Thursday   ,,,,2025-02-06,7:45 PM,Greenfoot Energy Center (Rink A)
+Thursday   ,,,,2025-02-06,7:15 PM,Greenfoot Energy Center (Rink D)
+Friday   ,,,,2025-02-07,8:30 PM,Don Henderson Memorial Sportsplex
+Friday   ,,,,2025-02-07,7:00 PM,East Hants Sportsplex (Keith Miller Arena)
+Friday   ,,,,2025-02-07,8:30 PM,East Hants Sportsplex (Keith Miller Arena)
+Saturday   ,,,,2025-02-08,9:00 PM,Greenfoot Energy Center (Rink D)
+Saturday   ,,,,2025-02-08,6:00 PM,East Hants Sportsplex (Keith Miller Arena)
+Saturday   ,,,,2025-02-08,8:00 PM,Eleanor Pew Memorial Arena (Church Memorial Park/Chester Rink)
+Saturday   ,,,,2025-02-08,6:00 PM,East Coast Varsity Arena
+Saturday   ,,,,2025-02-08,7:30 PM,East Coast Varsity Arena
+Saturday   ,,,,2025-02-08,9:00 PM,East Coast Varsity Arena
+Sunday   ,,,,2025-02-09,5:15 PM,Greenfoot Energy Center (Rink D)
+Sunday   ,,,,2025-02-09,6:45 PM,Greenfoot Energy Center (Rink D)
+Sunday   ,,,,2025-02-09,6:00 PM,Greenfoot Energy Center (Rink A)
+Sunday   ,,,,2025-02-09,7:30 PM,Greenfoot Energy Center (Rink A)
+Sunday   ,,,,2025-02-09,7:30 PM,Cole Harbour Place (Scotia 2)
+Sunday   ,,,,2025-02-09,8:00 PM,Cole Harbour Place (Scotia 1)
+Sunday   ,,,,2025-02-09,8:30 PM,East Hants Sportsplex (Ice Pad B)
+Sunday   ,,,,2025-02-09,12:00 PM,Eastern Shore Community Centre
+Sunday   ,,,,2025-02-09,8:00 PM,CFB Halifax - Shearwater Arena
+Sunday   ,,,,2025-02-09,6:15 PM,RBC Centre - Rink A
+Sunday   ,,,,2025-02-09,7:45 PM,RBC Centre - Rink D
+Thursday   ,,,,2025-02-13,7:15 PM,Greenfoot Energy Center (Rink D)
+Thursday   ,,,,2025-02-13,7:45 PM,Greenfoot Energy Center (Rink A)
+Friday   ,,,,2025-02-14,8:30 PM,Don Henderson Memorial Sportsplex
+Saturday   ,,,,2025-02-15,9:00 PM,Greenfoot Energy Center (Rink D)
+Saturday   ,,,,2025-02-15,6:00 PM,East Coast Varsity Arena
+Saturday   ,,,,2025-02-15,7:30 PM,East Coast Varsity Arena
+Saturday   ,,,,2025-02-15,9:00 PM,East Coast Varsity Arena
+Sunday   ,,,,2025-02-16,6:00 PM,Greenfoot Energy Center (Rink A)
+Sunday   ,,,,2025-02-16,7:30 PM,Greenfoot Energy Center (Rink A)
+Sunday   ,,,,2025-02-16,6:15 PM,Greenfoot Energy Center (Rink D)
+Sunday   ,,,,2025-02-16,7:45 PM,Greenfoot Energy Center (Rink D)
+Sunday   ,,,,2025-02-16,6:00 PM,Newport Arena (GFL Centre)
+Sunday   ,,,,2025-02-16,7:45 PM,RBC Centre - Rink D
+Sunday   ,,,,2025-02-16,8:30 PM,East Hants Sportsplex (Ice Pad B)
+Sunday   ,,,,2025-02-16,8:00 PM,CFB Halifax - Shearwater Arena
+Sunday   ,,,,2025-02-16,6:15 PM,RBC Centre - Rink A
+Thursday   ,,,,2025-02-20,7:15 PM,Greenfoot Energy Center (Rink D)
+Thursday   ,,,,2025-02-20,7:45 PM,Greenfoot Energy Center (Rink A)
+Friday   ,,,,2025-02-21,8:30 PM,Don Henderson Memorial Sportsplex
+Friday   ,,,,2025-02-21,7:00 PM,East Hants Sportsplex (Keith Miller Arena)
+Friday   ,,,,2025-02-21,8:30 PM,East Hants Sportsplex (Keith Miller Arena)
+Saturday   ,,,,2025-02-22,9:00 PM,Greenfoot Energy Center (Rink D)
+Saturday   ,,,,2025-02-22,8:00 PM,Eleanor Pew Memorial Arena (Church Memorial Park/Chester Rink)
+Saturday   ,,,,2025-02-22,6:00 PM,East Coast Varsity Arena
+Saturday   ,,,,2025-02-22,7:30 PM,East Coast Varsity Arena
+Saturday   ,,,,2025-02-22,9:00 PM,East Coast Varsity Arena
+Sunday   ,,,,2025-02-23,5:15 PM,Greenfoot Energy Center (Rink D)
+Sunday   ,,,,2025-02-23,6:45 PM,Greenfoot Energy Center (Rink D)
+Sunday   ,,,,2025-02-23,6:00 PM,Greenfoot Energy Center (Rink A)
+Sunday   ,,,,2025-02-23,7:30 PM,Greenfoot Energy Center (Rink A)
+Sunday   ,,,,2025-02-23,11:30 AM,East Hants Sportsplex (Keith Miller Arena)
+Sunday   ,,,,2025-02-23,8:30 PM,East Hants Sportsplex (Ice Pad B)
+Sunday   ,,,,2025-02-23,12:00 PM,Eastern Shore Community Centre
+Sunday   ,,,,2025-02-23,8:00 PM,CFB Halifax - Shearwater Arena
+Sunday   ,,,,2025-02-23,6:15 PM,RBC Centre - Rink A
+Sunday   ,,,,2025-02-23,7:45 PM,RBC Centre - Rink D
+Thursday   ,,,,2025-02-27,7:15 PM,Greenfoot Energy Center (Rink D)
+Thursday   ,,,,2025-02-27,7:45 PM,Greenfoot Energy Center (Rink A)
+Friday   ,,,,2025-02-28,8:30 PM,Don Henderson Memorial Sportsplex
+Friday   ,,,,2025-02-28,7:00 PM,East Hants Sportsplex (Keith Miller Arena)
+Friday   ,,,,2025-02-28,8:30 PM,East Hants Sportsplex (Keith Miller Arena)
+Saturday   ,,,,2025-03-01,9:00 PM,Greenfoot Energy Center (Rink D)
+Saturday   ,,,,2025-03-01,6:00 PM,East Coast Varsity Arena
+Saturday   ,,,,2025-03-01,7:30 PM,East Coast Varsity Arena
+Saturday   ,,,,2025-03-01,9:00 PM,East Coast Varsity Arena
+Sunday   ,,,,2025-03-02,5:15 PM,Greenfoot Energy Center (Rink D)
+Sunday   ,,,,2025-03-02,6:45 PM,Greenfoot Energy Center (Rink D)
+Sunday   ,,,,2025-03-02,6:00 PM,Greenfoot Energy Center (Rink A)
+Sunday   ,,,,2025-03-02,7:30 PM,Greenfoot Energy Center (Rink A)
+Sunday   ,,,,2025-03-02,6:00 PM,Newport Arena (GFL Centre)
+Sunday   ,,,,2025-03-02,7:45 PM,RBC Centre - Rink D
+Sunday   ,,,,2025-03-02,7:00 PM,East Hants Sportsplex (Ice Pad B)
+Sunday   ,,,,2025-03-02,12:00 PM,Eastern Shore Community Centre
+Sunday   ,,,,2025-03-02,8:00 PM,CFB Halifax - Shearwater Arena
+Sunday   ,,,,2025-03-02,6:15 PM,RBC Centre - Rink A
+Thursday   ,,,,2025-03-06,7:15 PM,Greenfoot Energy Center (Rink D)
+Thursday   ,,,,2025-03-06,7:45 PM,Greenfoot Energy Center (Rink A)
+Friday   ,,,,2025-03-07,8:30 PM,Don Henderson Memorial Sportsplex
+Friday   ,,,,2025-03-07,7:00 PM,East Hants Sportsplex (Keith Miller Arena)
+Friday   ,,,,2025-03-07,8:30 PM,East Hants Sportsplex (Keith Miller Arena)
+Saturday   ,,,,2025-03-08,9:00 PM,Greenfoot Energy Center (Rink D)
+Saturday   ,,,,2025-03-08,8:00 PM,Eleanor Pew Memorial Arena (Church Memorial Park/Chester Rink)
+Saturday   ,,,,2025-03-08,6:00 PM,East Coast Varsity Arena
+Saturday   ,,,,2025-03-08,7:30 PM,East Coast Varsity Arena
+Saturday   ,,,,2025-03-08,9:00 PM,East Coast Varsity Arena
+Sunday   ,,,,2025-03-09,5:15 PM,Greenfoot Energy Center (Rink D)
+Sunday   ,,,,2025-03-09,6:45 PM,Greenfoot Energy Center (Rink D)
+Sunday   ,,,,2025-03-09,6:00 PM,Greenfoot Energy Center (Rink A)
+Sunday   ,,,,2025-03-09,7:30 PM,Greenfoot Energy Center (Rink A)
+Sunday   ,,,,2025-03-09,7:00 PM,East Hants Sportsplex (Ice Pad B)
+Sunday   ,,,,2025-03-09,8:00 PM,CFB Halifax - Shearwater Arena
+Sunday   ,,,,2025-03-09,7:45 PM,RBC Centre - Rink D
+Monday   ,,,,2025-03-10,8:00 PM,Cole Harbour Place (Scotia 1)
+Monday   ,,,,2025-03-10,8:00 PM,East Hants Sportsplex (Keith Miller Arena)
+Tuesday   ,,,,2025-03-11,8:00 PM,East Hants Sportsplex (Keith Miller Arena)
+Thursday   ,,,,2025-03-13,7:15 PM,Greenfoot Energy Center (Rink D)
+Thursday   ,,,,2025-03-13,7:45 PM,Greenfoot Energy Center (Rink A)
+Thursday   ,,,,2025-03-13,7:30 PM,East Hants Sportsplex (Ice Pad B)
+Thursday   ,,,,2025-03-13,7:30 PM,East Hants Sportsplex (Keith Miller Arena)
+Friday   ,,,,2025-03-14,8:30 PM,Don Henderson Memorial Sportsplex
+Friday   ,,,,2025-03-14,7:00 PM,East Hants Sportsplex (Keith Miller Arena)
+Friday   ,,,,2025-03-14,8:30 PM,East Hants Sportsplex (Keith Miller Arena)
+Saturday   ,,,,2025-03-15,9:00 PM,Greenfoot Energy Center (Rink D)
+Saturday   ,,,,2025-03-15,6:00 PM,East Coast Varsity Arena
+Saturday   ,,,,2025-03-15,7:30 PM,East Coast Varsity Arena
+Saturday   ,,,,2025-03-15,9:00 PM,East Coast Varsity Arena
+Sunday   ,,,,2025-03-16,5:15 PM,Greenfoot Energy Center (Rink D)
+Sunday   ,,,,2025-03-16,6:45 PM,Greenfoot Energy Center (Rink D)
+Sunday   ,,,,2025-03-16,6:00 PM,Greenfoot Energy Center (Rink A)
+Sunday   ,,,,2025-03-16,7:30 PM,Greenfoot Energy Center (Rink A)
+Sunday   ,,,,2025-03-16,6:00 PM,Newport Arena (GFL Centre)
+Sunday   ,,,,2025-03-16,7:45 PM,RBC Centre - Rink D
+Sunday   ,,,,2025-03-16,7:00 PM,East Hants Sportsplex (Ice Pad B)
+Sunday   ,,,,2025-03-16,12:00 PM,Eastern Shore Community Centre
+Sunday   ,,,,2025-03-16,8:00 PM,CFB Halifax - Shearwater Arena
+Sunday   ,,,,2025-03-16,6:15 PM,RBC Centre - Rink A
+Thursday   ,,,,2025-03-20,7:15 PM,Greenfoot Energy Center (Rink D)
+Thursday   ,,,,2025-03-20,7:45 PM,Greenfoot Energy Center (Rink A)
+Friday   ,,,,2025-03-21,7:00 PM,East Hants Sportsplex (Keith Miller Arena)
+Friday   ,,,,2025-03-21,8:30 PM,East Hants Sportsplex (Keith Miller Arena)
+Friday,,,,2025-03-21,8:30 PM,Don Henderson Memorial Sportsplex
+Saturday   ,,,,2025-03-22,9:00 PM,Greenfoot Energy Center (Rink D)
+Saturday   ,,,,2025-03-22,6:30 PM,East Hants Sportsplex (Ice Pad B)
+Saturday   ,,,,2025-03-22,8:00 PM,East Hants Sportsplex (Ice Pad B)
+Saturday   ,,,,2025-03-22,8:00 PM,Eleanor Pew Memorial Arena (Church Memorial Park/Chester Rink)
+Saturday   ,,,,2025-03-22,6:00 PM,East Coast Varsity Arena
+Saturday   ,,,,2025-03-22,7:30 PM,East Coast Varsity Arena
+Saturday   ,,,,2025-03-22,9:00 PM,East Coast Varsity Arena
+Sunday   ,,,,2025-03-23,5:15 PM,Greenfoot Energy Center (Rink D)
+Sunday   ,,,,2025-03-23,6:45 PM,Greenfoot Energy Center (Rink D)
+Sunday   ,,,,2025-03-23,6:00 PM,Greenfoot Energy Center (Rink A)
+Sunday   ,,,,2025-03-23,7:30 PM,Greenfoot Energy Center (Rink A)
+Sunday   ,,,,2025-03-23,7:00 PM,East Hants Sportsplex (Ice Pad B)
+Sunday   ,,,,2025-03-23,8:00 PM,CFB Halifax - Shearwater Arena
+Sunday   ,,,,2025-03-23,6:15 PM,RBC Centre - Rink A
+Sunday   ,,,,2025-03-23,7:45 PM,RBC Centre - Rink D
+Thursday,,,,2025-03-27,8:30 PM,Don Henderson Memorial Sportsplex
+Friday   ,,,,2025-03-28,8:30 PM,East Hants Sportsplex (Keith Miller Arena)
+Friday   ,,,,2025-03-28,7:30 PM,East Hants Sportsplex (Ice Pad B)
+Friday   ,,,,2025-03-28,7:00 PM,East Hants Sportsplex (Keith Miller Arena)
+Saturday   ,,,,2025-03-29,12:00 PM,East Hants Sportsplex (Keith Miller Arena)
+Saturday   ,,,,2025-03-29,1:30 PM,East Hants Sportsplex (Keith Miller Arena)
+Saturday   ,,,,2025-03-29,3:00 PM,East Hants Sportsplex (Keith Miller Arena)
+Saturday   ,,,,2025-03-29,4:30 PM,East Hants Sportsplex (Ice Pad B)
+Saturday   ,,,,2025-03-29,6:00 PM,East Hants Sportsplex (Ice Pad B)
+Saturday   ,,,,2025-03-29,6:00 PM,East Coast Varsity Arena
+Saturday   ,,,,2025-03-29,7:30 PM,East Coast Varsity Arena
+Saturday   ,,,,2025-03-29,9:00 PM,East Coast Varsity Arena
+Sunday   ,,,,2025-03-30,6:00 PM,Greenfoot Energy Center (Rink A)
+Sunday   ,,,,2025-03-30,7:30 PM,Greenfoot Energy Center (Rink A)
+Sunday   ,,,,2025-03-30,12:00 PM,East Hants Sportsplex (Keith Miller Arena)
+Sunday   ,,,,2025-03-30,1:30 PM,East Hants Sportsplex (Keith Miller Arena)
+Sunday   ,,,,2025-03-30,3:00 PM,East Hants Sportsplex (Keith Miller Arena)
+Sunday   ,,,,2025-03-30,3:00 PM,East Hants Sportsplex (Ice Pad B)
+Sunday   ,,,,2025-03-30,4:30 PM,East Hants Sportsplex (Ice Pad B)
+Sunday   ,,,,2025-03-30,7:00 PM,East Hants Sportsplex (Ice Pad B)
+Sunday   ,,,,2025-03-30,5:15 PM,Greenfoot Energy Center (Rink D)
+Sunday   ,,,,2025-03-30,6:45 PM,Greenfoot Energy Center (Rink D)
+Sunday   ,,,,2025-03-30,1:30 PM,East Hants Sportsplex (Ice Pad B)
+Sunday   ,,,,2025-03-30,8:00 PM,CFB Halifax - Shearwater Arena
+Sunday   ,,,,2025-03-30,6:15 PM,RBC Centre - Rink A
+Sunday,,,,2025-03-30,7:45 PM,RBC Centre - Rink D
